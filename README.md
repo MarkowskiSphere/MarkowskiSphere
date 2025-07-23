@@ -1,16 +1,47 @@
-## Hi there 👋
+# My Sphere
 
-<!--
-**MarkowskiSphere/MarkowskiSphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Welcome to the repository for my personal landing page! This is the central hub for my online presence, showcasing my skills, projects, and interests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 My Tech Stack
+
+
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![VB.NET](https://img.shields.io/badge/VB.NET-8F00FF?style=for-the-badge&logo=visual-basic&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-2A81D2?style=for-the-badge&logo=stackpath&logoColor=white)](https://en.wikipedia.org/wiki/Full-stack_developer)
+
+
+
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+
+[![AVEVA Historian](https://img.shields.io/badge/AVEVA%20Historian-007ACC?style=for-the-badge&logo=appveyor&logoColor=white)](https://www.aveva.com/en/products/historian/)
+[![AVEVA PI System](https://img.shields.io/badge/AVEVA%20PI%20System-007ACC?style=for-the-badge&logo=linux&logoColor=white)](https://www.aveva.com/en/products/aveva-pi-system/)
+[![AVEVA InTouch HMI](https://img.shields.io/badge/AVEVA%20InTouch%20HMI-00A9E0?style=for-the-badge&logo=monitor&logoColor=white)](https://www.aveva.com/en/products/intouch-hmi/)
+[![Tridium Niagara](https://img.shields.io/badge/Tridium%20Niagara-1C4C7D?style=for-the-badge&logo=globe&logoColor=white)](https://www.tridium.com/us/en/products/niagara)
+
+
+[![OPC UA](https://img.shields.io/badge/OPC%20UA-F48400?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://opcfoundation.org/developer-tools/specifications-unified-architecture/)
+[![MQTT](https://img.shields.io/badge/MQTT-65BE3C?style=for-the-badge&logo=mqtt&logoColor=white)](https://mqtt.org/)
+[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
+[![Web API](https://img.shields.io/badge/Web%20API-F3722C?style=for-the-badge&logo=code&logoColor=white)](https://en.wikipedia.org/wiki/Web_API)
+
+
+
+---
+
+## 📧 Contact
+
+Dan Markowski - [danielmarkowski@gmail.com](mailto:danielmarkowski@gmail.com)
+
+Project Link: [https://github.com/MarkowskiSphere/MarkowskiSphere](https://github.com/MarkowskiSphere/MarkowskiSphere)
