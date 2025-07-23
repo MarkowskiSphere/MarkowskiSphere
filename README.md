@@ -22,6 +22,12 @@ Welcome to my personal landing page! This is the central hub for my online prese
 
 <!-- [![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-2A81D2?style=for-the-badge&logo=stackpath&logoColor=white)](https://en.wikipedia.org/wiki/Full-stack_developer) -->
 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kepware](https://img.shields.io/badge/Kepware-65727F?style=for-the-badge&logo=settings&logoColor=white)](https://www.kepware.com/)
+[![SSIS](https://img.shields.io/badge/SSIS-007ACC?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services)
+[![VMware](https://img.shields.io/badge/VMware-607185?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
+
+
 
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
