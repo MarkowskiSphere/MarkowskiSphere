@@ -2,7 +2,7 @@
 
 ---
 
-Welcome to the repository for my personal landing page! This is the central hub for my online presence, showcasing my skills, projects, and interests.
+Welcome to my personal landing page! This is the central hub for my online presence, showcasing my technical skills, projects, and interests.
 
 ## 🧠 My Tech Stack
 
@@ -42,6 +42,6 @@ Welcome to the repository for my personal landing page! This is the central hub 
 
 ## 📧 Contact
 
-Dan Markowski - [danielmarkowski@gmail.com](mailto:danielmarkowski@gmail.com)
+Dan Markowski - [DanielMarkowski@gmail.com](mailto:DanielMarkowski@gmail.com)
 
 Project Link: [https://github.com/MarkowskiSphere/MarkowskiSphere](https://github.com/MarkowskiSphere/MarkowskiSphere)
